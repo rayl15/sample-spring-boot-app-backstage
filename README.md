@@ -9,3 +9,18 @@
 
 In this project I'm demonstrating you the most interesting features of [Backstage](https://backstage.io/) for generating app skeletons. \
 This skeleton was generated automatically from the following [template](https://github.com/piomin/backstage-templates/blob/master/templates/spring-boot-basic/template.yaml).xx
+
+// AI: ## Docker
+
+To build the Docker image:
+
+```bash
+docker build -t sample-spring-boot-app .
+```
+
+To run the container:
+
+```bash
+docker run -p 8080:8080 sample-spring-boot-app
+```
+
