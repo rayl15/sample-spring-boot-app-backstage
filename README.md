@@ -9,3 +9,5 @@
 
 In this project I'm demonstrating you the most interesting features of [Backstage](https://backstage.io/) for generating app skeletons. \
 This skeleton was generated automatically from the following [template](https://github.com/piomin/backstage-templates/blob/master/templates/spring-boot-basic/template.yaml).xx
+// AI: Update the README.md to reflect the current repository owner and remove the typo at the end of the file.
+

@@ -13,6 +13,8 @@
     </parent>
 
     <properties>
+// AI: Update the sonar.projectKey and sonar.organization properties to match the current repository owner.
+
         <sonar.projectKey>piomin_sample-spring-boot-app-backstage</sonar.projectKey>
         <sonar.organization>piomin</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
